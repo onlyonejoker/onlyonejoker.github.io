@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    width: 800px;
+    height: 500px;
+    background-color: oldlace;
+    margin: 50px auto 0;
+    position: relative;
+}
