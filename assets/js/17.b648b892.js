@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{536:function(t,e,s){"use strict";s.r(e);var n=s(7),o=Object(n.a)({},(function(){var t=this.$createElement,e=this._self._c||t;return e("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[e("p",[this._v('打包时页面会出出现空白现象，是由于路由有一个 mode: "history"配置导致的，将之关闭就好')])])}),[],!1,null,null,null);e.default=o.exports}}]);
